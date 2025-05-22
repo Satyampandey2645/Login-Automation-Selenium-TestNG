@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Login Automation Test Suite">
+    <test name="Login Tests">
+        <classes>
+            <class name="com.login.automation.tests.LoginTest"/>
+        </classes>
+    </test>
+</suite>

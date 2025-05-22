@@ -1,0 +1,5 @@
+com\login\automation\App.class
+com\login\automation\pages\LoginPage.class
+com\login\automation\tests\LoginTest.class
+com\login\automation\utils\LoggerUtil.class
+com\login\automation\pages\BasePage.class
